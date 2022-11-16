@@ -83,10 +83,8 @@ var9 = IntVar()
 c1=Checkbutton(root,variable=var1,highlightthickness=0,bd=0,offvalue=0,onvalue=img_1)
 c1.grid(row=1,column=0)
 
-
 c2=Checkbutton(root,variable=var2,highlightthickness=0,bd=0,offvalue=0,onvalue=img_2)
 c2.grid(row=1,column=1)
-
 
 c3=Checkbutton(root, variable=var3,highlightthickness=0,bd=0,offvalue=0,onvalue=img_3)
 c3.grid(row=1, column=2)
